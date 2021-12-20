@@ -1,2 +1,2 @@
-FROM httpd:2.4
+FROM httpd
 ADD . /var/www/html
